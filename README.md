@@ -69,6 +69,7 @@ This repository contains Python scripts designed to extend the functionality of 
 📬 Support
 
 For questions or issues, please open an issue in this repository or contact the project maintainer.
+
 📝 License
 
 This project is licensed under the MIT License.
